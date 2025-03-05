@@ -27,7 +27,7 @@ export default function Home() {
     <div className="m-auto flex flex-col justify-center items-center  w-[90%]">
       <div className="text-center my-7">
         <h3 className="text-4xl font-bold">
-          <span className="text-blue-400">'কিশোর তুমি'</span> সোস্যাল
+          <span className="text-blue-400">"কিশোর তুমি"</span> সোস্যাল
           এওয়্যারন্যাস টিম লীড কে করবে?
         </h3>
         <h5 className="text-2xl">ভোট দিয়ে আপনার সমর্থন জানান দিন আমাদের।</h5>
