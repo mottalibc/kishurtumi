@@ -24,6 +24,7 @@ export default function SelectableCard({ name, content, profile }) {
         </div>
         <div className="ml-6">
           <h2 className="text-lg font-semibold text-gray-800">{name}</h2>
+          {/* eslint-disable-next-line react/no-unescaped-entities */}
           <p className="text-gray-600 mt-2 leading-none">{content}</p>
         </div>
       </div>
